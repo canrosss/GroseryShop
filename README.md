@@ -1,2 +1,2 @@
-# GroseryShop
-Un programa en java que simula una tienda de viveres
+# 🤑📦 GroseryShop
+Un programa en ☕️ Java que simula una tienda de viveres
