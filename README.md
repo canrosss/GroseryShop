@@ -1,5 +1,5 @@
 # 🤑📦 GroseryShop
 Un programa en ☕️ Java que simula una tienda de viveres
 
-Description 
-Welcome to the final project for this course for beginning to learn how to code using Java. In this project, you will apply the knowledge and skills you learned in this course to a simulated scenario.  In this project, you will create a console application for a grocery shop, which will calculate the total of grocery items chosen depending on the unit price and quantity. The tasks in this hands-on project correspond to the activities performed by a Java Developer who is creating a stand-alone console application.
+Bienvenido al proyecto final de este curso para comenzar a aprender a programar usando Java. En este proyecto, aplicarás los conocimientos y habilidades que aprendiste durante el curso en un escenario simulado. Crearás una aplicación de consola para una tienda de comestibles, la cual calculará el total de los productos seleccionados según el precio unitario y la cantidad. Las tareas de este proyecto práctico corresponden a las actividades realizadas por un desarrollador Java que está creando una aplicación de consola independiente.
+
